@@ -7,6 +7,7 @@ En este repositorio encontrarás tópicos sobre fisicoquímica, tanto teoría co
 + Modelo de Debye: [notebook](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/impedancia/ModeloDebye.ipynb)
 + Modelo de Cole-Cole: [notebook](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/impedancia/ModeloColeCole.ipynb)
 + Espectroscopia de capacitancia: [notebook](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/impedancia/Espectroscopia_de_Capacitancia.ipynb).
++ Medio heterogeneo: [notebook](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/impedancia/medio_heterogeneo.ipynb).
 
 ## Teoría de grupos
 + Representación reducible y número de representaciones irreducibles: [Jupyter Notebook](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/quantum/representaciones_reducibles.ipynb).
