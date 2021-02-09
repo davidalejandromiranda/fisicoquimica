@@ -10,6 +10,7 @@ En este repositorio encontrarás tópicos sobre fisicoquímica, tanto teoría co
 + Medio heterogeneo: [notebook](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/impedancia/medio_heterogeneo.ipynb).
 + GEMTIP, inclusiones esféricas: [notebook](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/impedancia/GEMTIP_InclusionesEsfericas.ipynb).
 + GEMTIP, parámetros para diferentes estadíos de tejido de cuello uterino: [notebook](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/impedancia/GEMTIP_TissueDataModeling.ipynb), [datos (ver tabla 1)](https://iopscience.iop.org/article/10.1088/1742-6596/434/1/012056/pdf).
++ Modelado Inverso Cole-Cole: [notebook](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/impedancia/ModeladoInversoColeCole.ipynb).
 
 ## Teoría de grupos
 + Representación reducible y número de representaciones irreducibles: [Jupyter Notebook](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/quantum/representaciones_reducibles.ipynb).
