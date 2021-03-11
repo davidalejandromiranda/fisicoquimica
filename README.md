@@ -2,13 +2,13 @@
 En este repositorio encontrarás tópicos sobre fisicoquímica, tanto teoría como instrumentación.
 
 ## Soluciones electrolíticas
-+ Modelo de Poisson-Boltzmann: [notebook](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/electrolitos/ModeloPoissonBoltzmann.ipynb)
++ Ecuación de Poisson-Boltzmann: [notebook](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/electrolitos/ModeloPoissonBoltzmann.ipynb).
 
 ## Impedancia eléctrica
 + Impedancia eléctrica: [video explicativo](https://youtu.be/Il2dNcMS3es) y [ejercicio de refuerzo](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/impedancia/impedancia_def_refuerzo.ipynb).
 + Representación de espectros de impedancia eléctrica: [notebook](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/impedancia/RepresentacionEspectrosImpedanciaElectrica.ipynb)
-+ Modelo de Debye: [notebook](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/impedancia/ModeloDebye.ipynb)
-+ Modelo de Cole-Cole: [notebook](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/impedancia/ModeloColeCole.ipynb)
++ Modelo de Debye: [notebook](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/impedancia/ModeloDebye.ipynb).
++ Modelo de Cole-Cole: [notebook](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/impedancia/ModeloColeCole.ipynb).
 + Espectroscopia de capacitancia: [notebook](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/impedancia/Espectroscopia_de_Capacitancia.ipynb).
 + Medio heterogeneo: [notebook](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/impedancia/medio_heterogeneo.ipynb).
 + GEMTIP, inclusiones esféricas: [notebook](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/impedancia/GEMTIP_InclusionesEsfericas.ipynb).
