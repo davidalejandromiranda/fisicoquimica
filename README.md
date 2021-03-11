@@ -2,7 +2,7 @@
 En este repositorio encontrarás tópicos sobre fisicoquímica, tanto teoría como instrumentación.
 
 ## Soluciones electrolíticas
-+ Ecuación de Poisson-Boltzmann: [notebook](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/electrolitos/ModeloPoissonBoltzmann.ipynb).
++ Ecuación de Poisson-Boltzmann: [notebook](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/electrolitos/EcuacionPoissonBoltzmann.ipynb).
 
 ## Impedancia eléctrica
 + Impedancia eléctrica: [video explicativo](https://youtu.be/Il2dNcMS3es) y [ejercicio de refuerzo](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/impedancia/impedancia_def_refuerzo.ipynb).
