@@ -17,6 +17,7 @@ En este repositorio encontrarás tópicos sobre fisicoquímica, tanto teoría co
 + Modelado Inverso GEMTIPsp: [notebook](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/impedancia/ModeladoInversoGEMTIPsp.ipynb)
 
 ## Teoría de grupos
++ Tabla de multiplicación del grupo P(3): [Jupyter Notebook](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/quantum/tabla_multiplicacion_grupo_P3.ipynb)
 + Representación reducible y número de representaciones irreducibles: [Jupyter Notebook](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/quantum/representaciones_reducibles.ipynb).
 + ¿Cómo actúa un operador de simetría sobre una función de dos variables?: [Jupyter Notebook](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/quantum/Operador_Cn_Sobre_Funcion.ipynb), [video explicaativo](https://youtu.be/aR-XsWcDReM).
 + Rotaciones pequeñas y momento angular: [Jupyter Notebook](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/quantum/rotation_3d.ipynb), [video explicativo](https://youtu.be/Xqgw87MM1dc).
