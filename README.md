@@ -30,7 +30,7 @@ En este repositorio encontrarás tópicos sobre fisicoquímica, tanto teoría co
 
 ## Cursos relacionados
 
-A continuación, se *syllabus* de algunos cursos que utilizan los recursos de este repositorio:
+A continuación, se encuentran enlaces a *syllabus* de algunos cursos que utilizan los recursos de este repositorio:
 
 + Propiedades eléctricas de los tejidos: [2021-2](https://weekapp.co/#/12i48Td_bJafIi6VMKknenxOTTd4WMmiqxp4HhNAlxDY/1), [2021-1](https://weekapp.co/#/1AowputRMmtKZgczf_d3Yei9uFYxcmm4DJnMj5zgq5Z8/1), [2020-2](https://weekapp.co/#/1WHxjCQUlPxTOVzF6qrlhHSa5LIH0FLgbuyc6K7O_Gzg/0).
 
