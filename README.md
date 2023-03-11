@@ -1,6 +1,14 @@
 # Tópicos en fisicoquímica
 En este repositorio encontrarás tópicos sobre fisicoquímica, tanto teoría como instrumentación.
 
+## *Syllabus* de cursos relacionados
+
+A continuación, se encuentran enlaces a *syllabus* de algunos cursos que utilizan los recursos de este repositorio:
+
++ Propiedades eléctricas de los tejidos: [2023-1](https://weekapp.co/#/13wXmEtD7kksjQyoDro4j0XnLp_vX8aalTEACnHbQsBc/0), [2021-2](https://weekapp.co/#/12i48Td_bJafIi6VMKknenxOTTd4WMmiqxp4HhNAlxDY/1), [2021-1](https://weekapp.co/#/1AowputRMmtKZgczf_d3Yei9uFYxcmm4DJnMj5zgq5Z8/1), [2020-2](https://weekapp.co/#/1WHxjCQUlPxTOVzF6qrlhHSa5LIH0FLgbuyc6K7O_Gzg/0).
+
++ Mecánica cuántica avanzada: [2021-2](https://weekapp.co/#/1e9e0GrFn38glKQeWpfa4EfHZj9sJbOqBbrOTx936-QQ/0), [2020-2](https://weekapp.co/#/1ORJQOC0rXLhaU6Yz8GAoRPX7q2ZNTW0-pwZw_cp46Dc/0).
+
 ## Soluciones electrolíticas
 + Ecuación de Poisson-Boltzmann: [colab](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/electrolitos/EcuacionPoissonBoltzmann.ipynb).
 
@@ -26,12 +34,3 @@ En este repositorio encontrarás tópicos sobre fisicoquímica, tanto teoría co
 
 ## Mecánica cuántica
 + Sistema con dos particulas indistinguibles: [colab](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/quantum/two_qparticles.ipynb).
-
-
-## Cursos relacionados
-
-A continuación, se encuentran enlaces a *syllabus* de algunos cursos que utilizan los recursos de este repositorio:
-
-+ Propiedades eléctricas de los tejidos: [2021-2](https://weekapp.co/#/12i48Td_bJafIi6VMKknenxOTTd4WMmiqxp4HhNAlxDY/1), [2021-1](https://weekapp.co/#/1AowputRMmtKZgczf_d3Yei9uFYxcmm4DJnMj5zgq5Z8/1), [2020-2](https://weekapp.co/#/1WHxjCQUlPxTOVzF6qrlhHSa5LIH0FLgbuyc6K7O_Gzg/0).
-
-+ Mecánica cuántica avanzada: [2021-2](https://weekapp.co/#/1e9e0GrFn38glKQeWpfa4EfHZj9sJbOqBbrOTx936-QQ/0), [2020-2](https://weekapp.co/#/1ORJQOC0rXLhaU6Yz8GAoRPX7q2ZNTW0-pwZw_cp46Dc/0).
