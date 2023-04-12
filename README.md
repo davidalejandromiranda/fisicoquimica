@@ -13,8 +13,8 @@ A continuación, se encuentran enlaces a *syllabus* de algunos cursos que utiliz
 + Ecuación de Poisson-Boltzmann: [colab](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/electrolitos/EcuacionPoissonBoltzmann.ipynb).
 
 ## Impedancia eléctrica
++ Determinación experimental de la impedancia de un circuito RC paralelo en serie con una resistencia: [colab](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/impedancia/impedancia_experimento.ipynb).
 + Impedancia eléctrica: [video explicativo](https://youtu.be/Il2dNcMS3es) y ejercicio de refuerzo [colab](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/impedancia/impedancia_def_refuerzo.ipynb).
-+ Impedancia eléctrica de un circuito RC paralelo en serie con una resistencia: [colab](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/impedancia/impedancia_experimento.ipynb).
 + Representación de espectros de impedancia eléctrica: [colab](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/impedancia/RepresentacionEspectrosImpedanciaElectrica.ipynb).
 + Modelo de Debye: [colab](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/impedancia/ModeloDebye.ipynb).
 + Modelo de Cole-Cole: [colab](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/impedancia/ModeloColeCole.ipynb).
