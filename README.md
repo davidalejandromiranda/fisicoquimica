@@ -10,6 +10,7 @@ A continuación, se encuentran enlaces a *syllabus* de algunos cursos que utiliz
 + Mecánica cuántica avanzada: [2021-2](https://weekapp.co/#/1e9e0GrFn38glKQeWpfa4EfHZj9sJbOqBbrOTx936-QQ/0), [2020-2](https://weekapp.co/#/1ORJQOC0rXLhaU6Yz8GAoRPX7q2ZNTW0-pwZw_cp46Dc/0).
 
 ## Soluciones electrolíticas
++ Propiedades eléctricas de una solución electrolitica de KCL 1M con Ferrocianuro $(Fe^{2+})$ 4 mM y Ferricianuro $(Fe^{3+})$ 4 mM: [colab](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/electrolitos/ParRedoxFerrocianuroFerricianuro_PropiedadesElectricas.ipynb).
 + Ecuación de Poisson-Boltzmann: [colab](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/electrolitos/EcuacionPoissonBoltzmann.ipynb).
 
 ## Impedancia eléctrica
