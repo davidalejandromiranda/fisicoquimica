@@ -5,9 +5,9 @@ En este repositorio encontrarás tópicos sobre fisicoquímica, tanto teoría co
 
 A continuación, se encuentran enlaces a *syllabus* de algunos cursos que utilizan los recursos de este repositorio:
 
-+ Propiedades eléctricas de los tejidos: [2024-1](https://weekapp.co/#/Semestre/1CHO4Rvj75TidEm2hW5KwwDFz5vwwsIZS3c9iYGVJfOs/0), [2023-1](https://weekapp.co/#/13wXmEtD7kksjQyoDro4j0XnLp_vX8aalTEACnHbQsBc/0), [2021-2](https://weekapp.co/#/12i48Td_bJafIi6VMKknenxOTTd4WMmiqxp4HhNAlxDY/1), [2021-1](https://weekapp.co/#/1AowputRMmtKZgczf_d3Yei9uFYxcmm4DJnMj5zgq5Z8/1), [2020-2](https://weekapp.co/#/1WHxjCQUlPxTOVzF6qrlhHSa5LIH0FLgbuyc6K7O_Gzg/0).
++ Propiedades eléctricas de los tejidos: [2025-1](https://weekapp.co/#/Semestre/1WiNBS57waz9QiFkQJH7M2dy3pJPXwh0mvmpes8wWeoM/0), [2024-1](https://weekapp.co/#/Semestre/1CHO4Rvj75TidEm2hW5KwwDFz5vwwsIZS3c9iYGVJfOs/0), [2023-1](https://weekapp.co/#/13wXmEtD7kksjQyoDro4j0XnLp_vX8aalTEACnHbQsBc/0), [2021-2](https://weekapp.co/#/12i48Td_bJafIi6VMKknenxOTTd4WMmiqxp4HhNAlxDY/1), [2021-1](https://weekapp.co/#/1AowputRMmtKZgczf_d3Yei9uFYxcmm4DJnMj5zgq5Z8/1), [2020-2](https://weekapp.co/#/1WHxjCQUlPxTOVzF6qrlhHSa5LIH0FLgbuyc6K7O_Gzg/0).
 
-+ Mecánica cuántica avanzada: [2021-2](https://weekapp.co/#/1e9e0GrFn38glKQeWpfa4EfHZj9sJbOqBbrOTx936-QQ/0), [2020-2](https://weekapp.co/#/1ORJQOC0rXLhaU6Yz8GAoRPX7q2ZNTW0-pwZw_cp46Dc/0).
++ Mecánica cuántica avanzada: [2022 en adelante](https://github.com/davidalejandromiranda/QuantumMechanics), [2021-2](https://weekapp.co/#/1e9e0GrFn38glKQeWpfa4EfHZj9sJbOqBbrOTx936-QQ/0), [2020-2](https://weekapp.co/#/1ORJQOC0rXLhaU6Yz8GAoRPX7q2ZNTW0-pwZw_cp46Dc/0).
 
 ## Soluciones electrolíticas
 + Propiedades eléctricas de una solución electrolitica de KCL 1M con Ferrocianuro $(Fe^{2+})$ 4 mM y Ferricianuro $(Fe^{3+})$ 4 mM: [colab](https://colab.research.google.com/github/davidalejandromiranda/fisicoquimica/blob/master/electrolitos/ParRedoxFerrocianuroFerricianuro_PropiedadesElectricas.ipynb).
